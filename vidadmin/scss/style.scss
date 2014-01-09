@@ -1,0 +1,99 @@
+body
+	width 100%
+	background-color #c7c9cd
+
+header
+	background-color #eee
+	border 1px solid #ddd
+	border-left-width 5px
+	color #333;
+	font-size: 30px;
+	font-weight: 200;
+	overflow-x: auto;
+	padding: 15px;
+	font-family: Helvetica Neue, Helvetica, Arial;
+
+input
+	float right
+	margin-right 30px
+	margin-bottom: 5px
+
+#ajax-append
+	color white
+
+.creater
+	float right
+	margin-right: 15px;
+	font-size 15px
+	font-weight 600
+	padding: 5px 10px
+	background #ec1e30
+
+.create-edit
+	font-weight 500
+	color black
+	text-decoration underline
+
+a:link{
+	color #ffffff
+	text-decoration none
+
+.logo1
+	height 30px
+	width auto
+	margin-left 250px
+	margin-bottom 20px
+
+.logo1 img
+	height 60px
+	width auto
+	margin-top 30px
+
+th header
+	text-align center
+
+td
+	border-style solid
+	border-width 5px
+	border-color  black
+
+table.tablesorter 
+	font-size 12px
+	background-color #f1f1f1
+	width 1024px
+	font-family Helvetica Neue, Helvetica, Arial
+
+table.tablesorter th 
+	text-align left
+	padding 5px
+	background-color #666666
+	color white
+
+table.tablesorter td 
+	padding 5px
+	border-style solid
+	border-width 1px
+	border-color black
+
+table.tablesorter .even 
+	background-color #3D3D3D
+
+table.tablesorter .odd 
+	background-color #6E6E6E
+
+table.tablesorter .header 
+	background-repeat: no-repeat
+	border-left 1px solid #FFF
+	border-right 1px solid #000
+	border-top 1px solid #FFF
+	padding-left 20px
+	padding-top 8px
+	height auto
+
+table.tablesorter .headerSortUp 
+	background-image url(asc.png)
+	background-repeat no-repeat
+
+table.tablesorter .headerSortDown 
+	background-image url(desc.png)
+	background-repeat no-repeat
