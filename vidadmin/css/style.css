@@ -22,7 +22,7 @@ input{
 	color: white;
 }
 .creater{
-	float right
+	float:right;
 	margin-right: 15px;
 	font-size: 15px;
 	font-weight: 600;
@@ -35,7 +35,7 @@ input{
 	text-decoration: underline;
 }
 a:link{
-	color: #ffffff;
+	color: #207a34;
 	text-decoration: none;
 }
 

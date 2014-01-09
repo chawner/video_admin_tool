@@ -6,27 +6,27 @@ header
 	background-color #eee
 	border 1px solid #ddd
 	border-left-width 5px
-	color #333;
-	font-size: 30px;
-	font-weight: 200;
-	overflow-x: auto;
-	padding: 15px;
-	font-family: Helvetica Neue, Helvetica, Arial;
+	color #333
+	font-size 30px
+	font-weight 200
+	overflow-x auto
+	padding 15px
+	font-family Helvetica Neue, Helvetica, Arial
 
 input
 	float right
 	margin-right 30px
-	margin-bottom: 5px
+	margin-bottom 5px
 
 #ajax-append
 	color white
 
 .creater
-	float right
-	margin-right: 15px;
+	floatright
+	margin-right 15px
 	font-size 15px
 	font-weight 600
-	padding: 5px 10px
+	padding 5px 10px
 	background #ec1e30
 
 .create-edit
@@ -34,8 +34,8 @@ input
 	color black
 	text-decoration underline
 
-a:link{
-	color #ffffff
+alink
+	color #207a34
 	text-decoration none
 
 .logo1
@@ -55,7 +55,7 @@ th header
 td
 	border-style solid
 	border-width 5px
-	border-color  black
+	border-color black
 
 table.tablesorter 
 	font-size 12px
@@ -82,7 +82,7 @@ table.tablesorter .odd
 	background-color #6E6E6E
 
 table.tablesorter .header 
-	background-repeat: no-repeat
+	background-repeat no-repeat
 	border-left 1px solid #FFF
 	border-right 1px solid #000
 	border-top 1px solid #FFF
