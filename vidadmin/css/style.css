@@ -1,3 +1,4 @@
+
 body{
 	width: 100%;
 	background-color: #c7c9cd;
@@ -38,6 +39,9 @@ a:link{
 	color: #207a34;
 	text-decoration: none;
 }
+table{
+	width: 100px;
+}
 
 .logo1{
 	height: 30px;
@@ -61,7 +65,6 @@ td{
 table.tablesorter{ 
 	font-size: 12px;
 	background-color: #f1f1f1;
-	width: 1024px;
 	font-family: Helvetica Neue, Helvetica, Arial;
 }
 table.tablesorter th{ 
@@ -75,6 +78,7 @@ table.tablesorter td {
 	border-style: solid;
 	border-width: 1px;
 	border-color: black;
+	width: 100%;
 }
 table.tablesorter .even {
 	background-color: #3D3D3D;
